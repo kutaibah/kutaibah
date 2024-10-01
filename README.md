@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://app.daily.dev/kutaibah"><img src="https://api.daily.dev/devcards/v2/yVnu6GPAQzuX2S4rreMWM.png?type=default&r=o95" width="356" alt="Kutaibah Halima's Dev Card"/></a>
